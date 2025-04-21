@@ -1,0 +1,1 @@
+AWX makes AWS simple and safe. It lets teams manage EC2, S3, RDS, and more—without full console access. AWX cuts costs, prevents mistakes, and automates tasks. And soon, it won’t stop at AWS we’re bringing multiple clouds together in one powerful, unified interface
